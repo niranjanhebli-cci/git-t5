@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 ## Name: Yuron Livon D'Costa
 ## Tech : Git 
 ## What I understood so far: 
@@ -40,7 +39,7 @@ GitHub: A web-based platform for hosting and sharing Git repositories, providing
  
 ## What I don’t understand so far: 
 Need more practice on git merge ,git stash 
-=======
+
 # **Name :** Niranjan Hebli
 
 #  **Tech :** Git 
@@ -82,4 +81,4 @@ Finally, once approved, merge the pull request to incorporate the changes into t
 
 **What I don’t understand so far:**
 rebasing, stashing 
->>>>>>> develop
+
